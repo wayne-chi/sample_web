@@ -30,7 +30,7 @@ app.get('/',function(req,res){
     res.sendFile(__dirname+'/index.html')
 })
 
-// Creating server at port 3000
-app.listen(3000,function(req,res){
-    console.log('Server started at 3000')
+// Creating server at port 8080
+app.listen(8080,function(req,res){
+    console.log('Server started at 8080')
 })
