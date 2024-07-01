@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "formidable": "^3.5.1",
+    "upper-case": "^3.0.0"
   },
   "devDependencies": {},
   "description": ""
